@@ -222,6 +222,35 @@ class _MainPageState extends State<MainPage> {
 
     //S
 
+    Samoa('00000000000', 'unitedkingdom', 'seoul', '5,100', Samoa() ),
+    San Marino('00000000000', 'unitedkingdom', 'seoul', '5,100', San Marino() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+    CountryData('00000000000', 'unitedkingdom', 'seoul', '5,100', 00000000000() ),
+
+
 
 
 
