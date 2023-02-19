@@ -8,22 +8,24 @@ class CountryTile extends StatelessWidget {
   // const CountryTile({Key? key}) : super(key: key);
   final CountryData _data;
 
-  CountryTile(this._data,);
+  CountryTile(this._data);
 
   @override
   Widget build(BuildContext context) {
     return ListTile(
-        dense: true,
+        // dense: true,
         onTap: (){
-          Get.to( _data.page);
+          Get.to( _data.page, transition: Transition.native,
+          duration: Duration(milliseconds: 700)
+          );
           // Navigator.push(context, MaterialPageRoute(builder: (context) => Korea() ));
           // _data.onPressed;
         },
 
-        leading:ClipRRect(
-        borderRadius: BorderRadius.circular(14),
-          child: Image.asset('assets/national_flags/${_data.countryFlag}.png',),
-        ),
+        leading: ClipRRect(
+            borderRadius: BorderRadius.circular(18),
+              child: Image.asset('assets/national_flags/${_data.countryFlag}.png', height: 50,width: 50),
+            ),
       title: Text(_data.country,style: GoogleFonts.sourceSansPro(fontSize: 22,fontWeight: FontWeight.w400)
       ),
       // subtitle: Text(_data.capital),
